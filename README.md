@@ -41,13 +41,10 @@ function display_version() {
 8. for writing the code - **nano project.sh**
 9. check version - **./project.sh --version**
 
-
-Part 2:
-
 10. Check Cpu info- **./project.sh cpu getinfo**
 
 12. Preview:
-13. 
+ 
 ![image](https://github.com/TusharBasu/internsctl-project/assets/126240600/815a8235-abcc-4101-bf9d-fbcf4f9bfb6e)
 
 14.Check memory: **./project.sh memory getinfo**
@@ -55,12 +52,19 @@ Part 2:
 ![image](https://github.com/TusharBasu/internsctl-project/assets/126240600/1140442f-8158-4767-ad66-1097959175fc)
 
 
+Part 2:
 15. create user and check user list:
+
+**./project.sh user create tusharbasu**
+
+**./project.sh user list****
+
+**./project.sh user list --sudo-only****
     
  ![image](https://github.com/TusharBasu/internsctl-project/assets/126240600/51513c77-3cd9-4d4c-8401-4fe64b0410c3)
 
-Part 3: 
 
+Part 3: 
 
 #!/bin/bash
 
