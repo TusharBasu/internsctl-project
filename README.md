@@ -101,6 +101,9 @@ $ internsctl file getinfo [options] --size,
 --last-modified, m
 
 
+![image](https://github.com/TusharBasu/internsctl-project/assets/126240600/881f7917-d61f-4c26-b40d-b72d244bb188)
+
+
 
 
 
