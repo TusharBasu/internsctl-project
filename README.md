@@ -6,6 +6,8 @@ Solution:
 2. setup all necessary changes like Region, Network, Location, Username and password and complete the setup.
 3. open terminal and run the commands.
 
+Flowchart Link: https://drive.google.com/file/d/1jGdBoRt9wn5TahFv2EXP_CpJPqPUbWyE/view?usp=sharing
+
 **Commands for operation.**
 
 Part 1:
